@@ -7,7 +7,7 @@ beautifulsoup4
 langchain
 langchain-community
 faiss-cpu
-
+beautifulsoup4
 # AI/ML models
 torch
 transformers
