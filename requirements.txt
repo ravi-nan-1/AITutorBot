@@ -1,0 +1,32 @@
+# Core app & web
+streamlit
+requests
+beautifulsoup4
+
+# LangChain ecosystem
+langchain
+langchain-community
+faiss-cpu
+
+# AI/ML models
+torch
+transformers
+
+# PDF and text utilities
+PyPDF2
+nltk
+
+# Audio processing
+speechrecognition
+pydub
+
+# YouTube transcript extraction
+youtube-transcript-api
+
+# Data utilities
+pydantic
+numpy
+pandas
+
+# Others used in the script
+tqdm
