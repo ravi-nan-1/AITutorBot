@@ -2,8 +2,8 @@ streamlit
 requests
 beautifulsoup4
 langchain
-langchain-community
 langchain-core
+langchain-community
 faiss-cpu
 torch
 transformers
