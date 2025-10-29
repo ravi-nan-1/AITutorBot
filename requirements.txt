@@ -2,17 +2,30 @@ streamlit
 requests
 beautifulsoup4
 langchain==0.1.16
-langchain-core
+
+
+
 langchain-community
 faiss-cpu
+tiktoken
+
+# LLM + embeddings
 torch
 transformers
-PyPDF2
+openai
+
+# NLP and text processing
 nltk
-speechrecognition
+PyPDF2
 pydub
+SpeechRecognition
 youtube-transcript-api
+
+# Utilities
 pydantic
 numpy
 pandas
-tqdm
+
+# Optional helpers
+lxml
+
