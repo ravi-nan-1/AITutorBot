@@ -2,7 +2,7 @@
 streamlit
 requests
 beautifulsoup4
-
+langchain==0.0.335
 # LangChain ecosystem
 langchain
 langchain-community
